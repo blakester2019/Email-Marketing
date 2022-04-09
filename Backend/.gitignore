@@ -1,0 +1,9 @@
+*.config
+*.json
+Backend.csproj
+Backend.csproj.user
+Backend.sln
+.vs/
+bin/
+obj/
+Properties/
