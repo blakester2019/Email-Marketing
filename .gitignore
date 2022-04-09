@@ -3,14 +3,17 @@
 # dependencies
 frontend/node_modules
 
+*.config
+*.json
+
 # config files
-Backend\App.config
-Backend\connections.config
-Backend\csproj
-Backend\csproj.user
-Backend\.vs
-Backend\bin
-Backend\obj
-Backend\Properties
-Backend\appsettings.json
-Backend\appsettings.Development.json
+Backend/App.config
+Backend/connections.config
+Backend/Backend.csproj
+Backend/Backend.csproj.user
+Backend/.vs
+Backend/bin
+Backend/obj
+Backend/Properties
+Backend/appsettings.json
+Backend/appsettings.Development.json
